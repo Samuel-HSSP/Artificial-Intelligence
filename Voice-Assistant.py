@@ -1,3 +1,6 @@
+## Coded by Samuel Ayomide Ogunleke
+## HSSP World
+## Do not copy without permission
 import sounddevice as sd
 from scipy.io.wavfile import write
 #from chatterbot import ChatBot
